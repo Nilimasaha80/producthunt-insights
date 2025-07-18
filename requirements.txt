@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-streamlit
+streamlit==1.36.0
 requests
 pandas
-=======
-echo streamlit > requirements.txt
-echo requests >> requirements.txt
-echo pandas >> requirements.txt
->>>>>>> 4f3f9f6cda29bfdf52451f50bca5be2e3c6a4524
+
